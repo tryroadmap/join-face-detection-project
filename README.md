@@ -17,20 +17,10 @@ Feature engineering with SageMaker Notebooks
 TBD
 
 #### Technology Stack
-AWS SageMaker
+AWS SageMaker, Python, Notebooks
 
-The global tendency graph excluding China and in China:
-
-./run.sh tendency
-
-The prediction graph of a certain country by using linear regression:
-
-./run.sh linear Spain(Germany, UK, Singapore...)
-
-
-The prediction graph of a certain country by using logistic regression:
-
-./run.sh logistic Spain(Germany, UK, Singapore...)
 
 #### Data Science Manager
-TBD
+
+[LinkedIn](https://www.linkedin.com/in/enzodata/)
+[Kaggle](https://www.kaggle.com/enzodata)
