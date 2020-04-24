@@ -6,9 +6,13 @@ Build a model to perform image classifications to assist in reuniting families w
 There are multiple missing children in this world and I would love to help reconnect families with their loved ones. Human trafficking is a serious issue our country deals with and if we can optimize the search criteria, I believe the world can gain from this project.
 
 ### Acknowledgments
-The source data of this project comes from  ...
+The source data of this project comes from multiple government websites:
 
-The initial notebook has been received and analyzed during a collaboration of PhillyTalent and [Enzo Rodriguez](https://www.kaggle.com/saga21)
+https://www.fbi.gov/news/stories/national-missing-childrens-day-052419
+
+https://api.missingkids.org/missingkids/servlet/PubCaseSearchServlet?act=usMapSearch&missState=NY
+
+Besides, I will do some webscraping to create the database. 
 
 #### Tasks
 Web scrapping. 
